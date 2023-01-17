@@ -1,3 +1,6 @@
 # Luxury Resort Landing Page 
-## React | TailwindCSS
+
+```js
+React | TailwindCSS
+```
 
